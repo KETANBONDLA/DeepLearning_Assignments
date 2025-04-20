@@ -47,8 +47,10 @@ This repository contains the completed deep learning assignments for the academi
 ## 🧾 Notes
 
 - Ensure all dependencies are installed before running notebooks.
-- Dataset files are stored in the `data/` directory and accessed as needed within each notebook.
 - Each assignment includes code, explanations, and visualizations to illustrate concepts effectively.
+- All datasets used in the assignments are stored in the `data/` folder.
+- ⚠️ **Exception:** The dataset for the **CNN assignment** is **not included** in the `data/` folder due to its large size. Please download it separately drive link (https://drive.google.com/file/d/1kdqIJr0V4cmhUaM9FXrWf4v-akivpt9m/view?usp=sharing) .
+- Each assignment includes well-commented code, explanations, and visualizations to reinforce understanding of deep learning concepts.
 
 ---
 
