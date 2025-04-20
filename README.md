@@ -44,5 +44,11 @@ This repository contains the completed deep learning assignments for the academi
 
 ---
 
-## 📂 Directory Structure (optional)
+## 🧾 Notes
+
+- Ensure all dependencies are installed before running notebooks.
+- Dataset files are stored in the `data/` directory and accessed as needed within each notebook.
+- Each assignment includes code, explanations, and visualizations to illustrate concepts effectively.
+
+---
 
